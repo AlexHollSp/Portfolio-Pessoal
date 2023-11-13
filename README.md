@@ -6,6 +6,8 @@
     <img alt="portfolio Pessoal" src="img/Capa.jpg" width="100%">
 </p>
 
+[Visualizar Projeto](https://alexhollsp.github.io/Portfolio-Pessoal/)
+
 ## Design
 
 O design do site de portfólio foi cuidadosamente elaborado no Figma, utilizando princípios de UI (User Interface) para criar uma experiência atraente e intuitiva. Cada seção foi planejada com o objetivo de destacar meus projetos, habilidades e história profissional de maneira coesa.
